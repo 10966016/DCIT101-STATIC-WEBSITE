@@ -1,0 +1,59 @@
+    .top {
+        font-family: berlin sans fb;
+        font-size: 5ch;
+        text-align: center;
+        color: Yellow;
+        text-decoration-color: darkgoldenrod;
+        text-decoration-line: dotted;
+        text-decoration: dotted;
+        text-decoration-style: wavy;
+        text-shadow: 100ch;
+        text-overflow: clip;
+    }
+    
+    .tpp {
+        background-image: url("Ug.jpg");
+        font-family: san francisco;
+        color: black;
+        text-align: center;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 100%;
+        font-size: 3ch;
+    }
+    
+    .tpt {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        text-align: bottom;
+        color: whitesmoke;
+        font-weight: 300;
+        font-stretch: expanded;
+        font
+    }
+    
+    .hrr {
+        outline: auto;
+        outline-color: aqua;
+        color: black;
+        outline-style: groove;
+        align-content: bottom;
+        position: absolute;
+        bottom: 5ch;
+        right: 21ch;
+        border-radius: 25px;
+        border: 1px solid #4195fc;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        -webkit-box-shadow: 0px 0px 4px #4195fc;
+        -moz-box-shadow: 0px 0px 4px #4195fc;
+        box-shadow: 0px 0px 4px #4195fc;
+    }
+    
+    .tppp {
+        text-transform: capitalize;
+        font-style: oblique;
+        color: beige;
+    }
